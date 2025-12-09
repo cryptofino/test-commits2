@@ -1,0 +1,3 @@
+[submodule "base contarct/my-project/lib/forge-std"]
+	path = base contarct/my-project/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
